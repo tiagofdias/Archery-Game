@@ -18,6 +18,6 @@ Welcome to the **Archery Game**! Test your aim and skills with this fun and inte
 
 - HTML, CSS, JavaScript.
 
-Try it Here:
+[Try it Here](https://tiagofdias.github.io/Archery-Game/)
 
 Enjoy playing, and see how high you can score!
